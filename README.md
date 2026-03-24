@@ -51,14 +51,17 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
-  <br>
-  <a href="mailto:hyej5501@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
+  <p>📧 hyej5501@gmail.com</p>
+  <p>
+    📃 
   <a href="https://drive.google.com/file/d/1swt_8NJc6A50F2LN5NtrwQAhi_54bSvw/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googledrive&logoColor=white">
+    Portfolio
   </a>
-  <a href="https://velog.io/@chohc">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  </p>
+  <p>
+    ✒️
+   <a href="https://velog.io/@chohc">
+    Velog
   </a>
+  </p>
 </div>
