@@ -19,8 +19,7 @@
 </p>
 
 <p>
-  <strong>사용자의 요구와 업무 흐름을 이해하는 것</strong>을 중요하게 생각하며,
-  AI 기술을 실제 서비스와 업무에 적용하는 개발에 관심을 가지고 있습니다.
+  사용자의 요구와 업무 흐름을 이해하며 실제 서비스와 업무를 개선하는 개발에 관심을 가지고 있습니다.
 </p>
 
 <br>
@@ -36,9 +35,9 @@
 </p>
 
 <ul>
-  <li>온도 시험 장비 제어 자동화 및 지원 장비·시험 조건 확장</li>
-  <li>교정성적서 PDF 데이터 추출, 사내 Excel 양식 변환 및 텍스트 인식 오류 보정</li>
-  <li>주요 부품 데이터 통합 및 Word 문서 출력 기능 개발</li>
+  <li>시험 장비 제어 자동화 프로그램</li>
+  <li>보안 PDF 데이터 추출 및 사내 Excel 양식 변환 프로그램</li>
+  <li>주요 부품 데이터 통합 및 Word 문서 출력 프로그램</li>
   <li>현업 요구사항 분석, 기능 설계 및 실제 데이터 검증</li>
 </ul>
 
@@ -83,60 +82,79 @@
 <code>React Native</code> <code>JavaScript</code>
 
 <p>
-  React Native를 활용해 진행한 모바일 앱 팀 프로젝트입니다.
+  5인 팀으로 개발한 야구 직관러 여행지 추천 및 동행 찾기 앱입니다.
 </p>
+
+<ul>
+  <li>34개 화면 중 30개 구현</li>
+  <li>JWT 로그인 및 토큰 자동 갱신</li>
+  <li>REST API 기반 회원가입·게시글·여행지 추천 기능</li>
+  <li>Socket.io 기반 1:1 및 그룹 실시간 채팅</li>
+  <li>모달 컴포넌트 설계</li>
+</ul>
 
 <p>
   <a href="https://github.com/TravelInning/TravelInning-Frontend#-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4">📂 GitHub Repository & Screenshots</a>
 </p>
 
+<p>
+  📃 <a href="https://drive.google.com/file/d/19ONjNERo6O7zG-v_Fuhf5gg9YJ_05w5t/view?usp=sharing">Portfolio</a>
+</p>
+
 <br>
+
 
 <h2>🛠️ Tech Stacks</h2>
 
 <h3>Frontend</h3>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
+</p>
 
 <h3>Programming & API</h3>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+</p>
 
 <h3>State Management</h3>
-
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+</p>
 
 <h3>Tools & Collaboration</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</p>
 
 <h3>Deployment</h3>
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+</p>
 
 <h3>Also Learned</h3>
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</p>
 
 <br>
 
@@ -146,6 +164,4 @@
   📧 <a href="mailto:hyej5501@gmail.com">hyej5501@gmail.com</a>
 </p>
 
-<p>
-  📃 <a href="https://drive.google.com/file/d/19ONjNERo6O7zG-v_Fuhf5gg9YJ_05w5t/view?usp=sharing">Portfolio</a>
-</p>
+
