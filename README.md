@@ -99,8 +99,6 @@
 
 <br>
 
-<hr>
-
 <h2>📃 Portfolio</h2>
 
 <p>
