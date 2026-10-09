@@ -94,15 +94,26 @@
 </ul>
 
 <p>
-  <a href="https://github.com/TravelInning/TravelInning-Frontend#-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4">📂 GitHub Repository & Screenshots</a>
-</p>
-
-<p>
-  📃 <a href="https://drive.google.com/file/d/19ONjNERo6O7zG-v_Fuhf5gg9YJ_05w5t/view?usp=sharing">Portfolio</a>
+  <a href="https://github.com/TravelInning/TravelInning-Frontend#-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4">📂 GitHub Repository</a>
 </p>
 
 <br>
 
+<hr>
+
+<h2>📃 Portfolio</h2>
+
+<p>
+  프로젝트별 담당 역할과 개발 과정은 포트폴리오에서 자세히 확인할 수 있습니다.
+</p>
+
+<p>
+  <a href="https://drive.google.com/file/d/19ONjNERo6O7zG-v_Fuhf5gg9YJ_05w5t/view?usp=sharing">
+    <strong>View Portfolio →</strong>
+  </a>
+</p>
+
+<br>
 
 <h2>🛠️ Tech Stacks</h2>
 
